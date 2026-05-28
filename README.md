@@ -14,6 +14,7 @@ A curated reference of tools, frameworks, infra, and utilities for building AI a
 * [Agent Development Frameworks](#agent-development-frameworks)
 * [Social Media Crawling & Outreach](#social-media-crawling--outreach)
 * [Agent Collaboration Platforms](#agent-collaboration-platforms)
+* https://github.com/thealgorithms
 
 ---
 
